@@ -1,0 +1,21 @@
+.hide-content{
+	visibility:hidden;
+}
+.remove_borders{
+	padding:0px!important;
+	margin: 0!important;
+}
+.asterisk_input::before {
+	content: " *";
+	color: #e32;
+}
+.errormsg {
+	color: #e32;
+}
+.convertaslabel{
+	border-color: transparent;
+	text-align: center;
+}
+.label_size{
+	font-size: 14px;
+}
